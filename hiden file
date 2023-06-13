@@ -1,0 +1,1 @@
+{ expand: true, src: ["*", ".git/**/*"], cwd: "...", dest: "..." }
